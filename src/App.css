@@ -60,7 +60,6 @@ padding-top: 50px;
   font-size: 40px;
   justify-content: center;
   align-items: center;
-  /* background-color: lightskyblue; */
 }
 .time-container{
   margin: 0px 25px;
@@ -68,7 +67,6 @@ padding-top: 50px;
   font-size: 10px;
   justify-content: space-around;
   align-items: center;
-  /* background-color: lightslategrey */
 }
   .background {
     background-image:  url("https://webstockreview.net/images/phone-clipart-phone-android.png");
